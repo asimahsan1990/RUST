@@ -8,3 +8,6 @@
 !*/
 
 ### Above combination will ignore all files without extension ###
+
+#ingore target folder
+target/
