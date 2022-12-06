@@ -11,3 +11,6 @@
 
 #ingore target folder
 target/
+
+#ingore lock file
+*.lock
